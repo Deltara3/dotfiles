@@ -1,4 +1,4 @@
-> ![IMPORTANT]
+> [!IMPORTANT]
 > I am not a ricer, the quality of these files may vary.
 
 # Configs
